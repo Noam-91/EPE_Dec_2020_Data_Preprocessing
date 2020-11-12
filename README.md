@@ -2,7 +2,7 @@
 
 <pre>
 
-<span style="color: 0,0,204"> EPE Tutorial - Data Preprocessing </span>
+<span style="color: blue">EPE Tutorial - Data Preprocessing </span>
 Collaborators:  Noam Yan      noamyan9@uw.edu
                 River Liu     liul29@uw.edu
 </pre>
