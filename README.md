@@ -1,10 +1,10 @@
 # EPE_Dec_2020_Data_Preprocessing
 
 EPE Tutorial - Data Preprocessing<br>
-
-Collaborators:\t  Noam Yan   \t   noamyan9@uw.edu<br>
-              \t  River Liu  \t   liul29@uw.edu<br>
-
+<pre>
+Collaborators:  Noam Yan      noamyan9@uw.edu<br>
+                River Liu     liul29@uw.edu<br>
+</pre>
 
 
 There are 5 data samples in the data folder. They are different in data types but same in content. Shape = (20k, 79)
