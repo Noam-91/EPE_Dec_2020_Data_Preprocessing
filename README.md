@@ -7,9 +7,9 @@ Collaborators:  Noam Yan      noamyan9@uw.edu
 </pre>
 
 ```diff
-! Machine Learning is also Stack Overflow Learning. You need to develop the ability to find the answers yourself online!!!
+! Machine Learning is also Stack Overflow Learning. 
+! You need to develop the ability to find the answers yourself online!!!
 ```
-
 
 ## Introduction
 This lesson is about data preprocessing. Data is a collection of facts and figures, observations, or descriptions of things in an unorganized or organized form. In cases of Particle Physics, we only have numerical or categorical data, but we might need different representations, for example, Jet Image. <br>
