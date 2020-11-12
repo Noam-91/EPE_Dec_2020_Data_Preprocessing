@@ -1,9 +1,9 @@
 # EPE_Dec_2020_Data_Preprocessing
 
-EPE Tutorial - Data Preprocessing<br>
 <pre>
-Collaborators:  Noam Yan      noamyan9@uw.edu<br>
-                River Liu     liul29@uw.edu<br>
+EPE Tutorial - Data Preprocessing
+Collaborators:  Noam Yan      noamyan9@uw.edu
+                River Liu     liul29@uw.edu
 </pre>
 
 
