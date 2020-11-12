@@ -2,8 +2,8 @@
 
 EPE Tutorial - Data Preprocessing<br>
 
-|Collaborators:|  Noam Yan|      noamyan9@uw.edu<br>|
-|                |River Liu |    liul29@uw.edu<br>
+Collaborators:|  Noam Yan   |   noamyan9@uw.edu<br>
+              |  River Liu  |   liul29@uw.edu<br>
 
 
 
