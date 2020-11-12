@@ -1,14 +1,14 @@
 # EPE_Dec_2020_Data_Preprocessing
 
-EPE Tutorial - Data Preprocessing
-Collaborators:  Noam Yan      noamyan9@uw.edu
-                River Liu     liul29@uw.edu
+EPE Tutorial - Data Preprocessing<br>
+Collaborators:  Noam Yan      noamyan9@uw.edu<br>
+                River Liu     liul29@uw.edu<br>
 
 
 There are 5 data samples in the data folder. They are different in data types but same in content. Shape = (20k, 79)
 
 ## Introduction
-This lesson is about data preprocessing. Data is a collection of facts and figures, observations, or descriptions of things in an unorganized or organized form. In cases of Particle Physics, we only have numerical data, but we might need different representations, for example, Jet Image. 
+This lesson is about data preprocessing. Data is a collection of facts and figures, observations, or descriptions of things in an unorganized or organized form. In cases of Particle Physics, we only have numerical data, but we might need different representations, for example, Jet Image. <br>
 Data preprocessing is a very important first step for anyone dealing with data sets. That’s because it leads to better data sets, that are cleaner and are more manageable.
 
 ## Outline
